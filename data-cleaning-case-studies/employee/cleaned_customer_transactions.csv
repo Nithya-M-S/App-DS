@@ -1,7 +1,0 @@
-Transaction_ID,Customer_ID,Name,Age,Gender,Purchase_Amount,Payment_Method,Purchase_Date
-TXN001,C001,John Doe,25,Male,120.5,credit card,2024-02-10
-TXN002,C002,Jane Doe,27,Female,200.0,cash,2024-02-10
-TXN003,C003,,35,Male,500.75,paypal,2024-02-12
-TXN004,C001,John Doe,25,Male,120.5,credit card,2024-02-10
-TXN005,C004,Sam Smith,28,Male,120.5,debit card,2024-02-13
-TXN006,C005,Alice,22,Female,99.99,unknown,2024-02-14
