@@ -1,0 +1,7 @@
+Employee_ID,Name,Age,Department,Salary,Working_Hours,Projects_Completed,Performance_Rating
+101,Alice,29,HR,50000,40,5,4.2
+102,Bob,-35,IT,70000,50,8,NaN
+103,Charlie,28,Sales,45000,?,4,3.9
+104,NaN,40,IT,NaN,55,10,4.9
+105,Eve,32,Marketing,60000,42,NaN,4.3
+106,Alice,29,HR,50000,40,5,4.2
